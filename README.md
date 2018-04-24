@@ -17,8 +17,8 @@ Implement the Node class to create a binary search tree. Implement the 'insert' 
 The function should capitalize the first letter of each word in the string then return the capitalized string.
 <br /><br />
 <h4>Chunk</h4>
-Given an array and chunk size, divide the array into many subarrays where each subarray is of length size, for example:
-chunk([1, 2, 3, 4], 2) --> [[ 1, 2], [3, 4]]
+Given an array and chunk size, divide the array into many subarrays where each subarray is of length size, for example:<br />
+chunk([1, 2, 3, 4], 2) --> [[ 1, 2], [3, 4]]<br />
 chunk([1, 2, 3, 4, 5], 2) --> [[ 1, 2], [3, 4], [5]]
 <br /><br />
 <h4>Circular</h4>
@@ -46,7 +46,7 @@ Implement classes Node and Linked Lists to do multiple things with a Linked List
 A function that accepts an integer N and returns a NxN spiral matrix.
 <br /><br />
 <h4>Max Char</h4>
-Given a string, return the character that is most commonly used in the string, for example:
+Given a string, return the character that is most commonly used in the string, for example:<br />
 maxChar("abcccccccd") === "c"
 <br /><br />
 <h4>Midpoint (Linked List)</h4>
