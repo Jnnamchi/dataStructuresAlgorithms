@@ -27,14 +27,68 @@ Given a linked list, return true if the list is circular, false if not.
 <li>Events</li>
 Create an 'eventing' library out of the Events class and create methods 'on', 'trigger', and 'off'.
 
+<li>Fibonacci</li>
+Print out the n-th entry in the fibonacci series given an int n.
 
-<li>Anagrams</li>
+<li>FizzBuzz</li>
+Write a program that console logs the numbers from 1 to n. But for multiples of three print “fizz” instead of the number and for the multiples of five print “buzz”. For numbers which are multiples of both three and five print “fizzbuzz”.
 
-<li>Anagrams</li>
-<li>Anagrams</li>
-<li>Anagrams</li>
-<li>Anagrams</li>
-<li>Anagrams</li>
-<li>Anagrams</li>
-<li>Anagrams</li>
-<li>Anagrams</li>
+<li>From Last (linked list)</li>
+Given a linked list, return the element n spaces from the last node in the list.  Do not call the 'size' method of the linked list.
+
+<li>Level Width (Tree)</li>
+Given the root node of a tree, return an array where each element is the width of the tree at each level.
+
+<li>Linked List</li>
+Implement classes Node and Linked Lists to do multiple things with a Linked List data structure.
+
+<li>Matrix</li>
+A function that accepts an integer N and returns a NxN spiral matrix.
+
+<li>Max Char</li>
+Given a string, return the character that is most commonly used in the string, for example:
+maxChar("abcccccccd") === "c"
+
+<li>Midpoint (Linked List)</li>
+Return the 'middle' node of a linked list. If the list has an even number of elements, return the node at the end of the first half of the list.
+
+<li>Palindrome</li>
+Given a string, return true if the string is a palindrome or false if it is not. Palindromes are strings that form the same word if it is reversed.
+
+<li>Pyramid</li>
+Write a function that accepts a positive number N. The function should console log a pyramid shape with N levels using the # character.
+
+<li>Queue from Stack</li>
+Implement a Queue datastructure using two stacks.  
+
+<li>Queue</li>
+Create a queue data structure. The queue should be a class with methods 'add' and 'remove'.
+
+<li>Reverse Int</li>
+Given an integer, return an integer that is the reverse ordering of numbers.
+
+<li>Reverse String</li>
+Given a string, return a new string with the reversed order of characters
+
+<li>Sorting</li>
+Implement bubbleSort, selectionSort, and mergeSort sorting algorithms to sort an array of integers from smallest to largest.
+
+<li>Stack</li>
+Create a stack data structure and give its class the methods 'push', 'pop', and 'peek'.
+
+<li>Steps</li>
+Write a function that accepts a positive number N. The function should console log a step shape with N levels using the # character.
+
+<li>Tree</li>
+Create a tree data strcuture using a node and tree class. Also implement 'traverseBF' and 'traverseDF' on the tree class to travel through all elements in the tree, either breadth first (BF) or depth first (DF).
+
+<li>Validate (Binary Search Tree)</li>
+Given a node, validate the binary search tree, ensuring that every node's left hand child is less than the parent node's value, and that every node's right hand child is greater than the parent
+
+<li>Vowels</li>
+Write a function that returns the number of vowels used in a string. 
+
+<li>Weave</li>
+Weave receives two queues as arguments and combines the contents of each into a new, third queue.The third queue should contain the *alterating* content of the two queues.
+
+That's all folks!
