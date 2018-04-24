@@ -5,4 +5,4 @@ This repository contains a survey of classic algorithms and data structures fund
 
 The exercises and solutions (in alphabetical order) are as follows:
 
-<ul>Anagrams</ul>
+<li>Anagrams</li>
