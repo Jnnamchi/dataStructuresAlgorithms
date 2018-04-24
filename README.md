@@ -9,10 +9,10 @@ The exercises and solutions (in alphabetical order) are as follows:
 Check to see if two provided strings are anagrams of eachother.
 anagrams('rail safety', 'fairy tales') --> True
 anagrams('Hi there', 'Bye there') --> False
-
+\n
 <li>Binary Search Tree</li>
 Implement the Node class to create a binary search tree. Implement the 'insert' method for the Node class to insert a new node into the tree. Implement the 'contains' method for the Node class which accepts a 'data' argument and returns the Node in the tree with the same value.
-
+\n
 <li>Capitalize</li>
 The function should capitalize the first letter of each word in the string then return the capitalized string.
 
