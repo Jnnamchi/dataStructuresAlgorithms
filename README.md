@@ -6,7 +6,7 @@ This repository contains a survey of classic algorithms and data structures fund
 The exercises and solutions (in alphabetical order) are as follows:
 
 <li>Anagrams</li>
-Check to see if two provided strings are anagrams of eachother.
+Check to see if two provided strings are anagrams of eachother..
 anagrams('rail safety', 'fairy tales') --> True
 anagrams('Hi there', 'Bye there') --> False
 
